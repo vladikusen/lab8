@@ -1,0 +1,3 @@
+﻿  lab8.cpp
+C:\Users\grand\Documents\prog\lab8\lab8.cpp(84,34): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  lab8.vcxproj -> C:\Users\grand\Documents\prog\lab8\x64\Debug\lab8.exe
